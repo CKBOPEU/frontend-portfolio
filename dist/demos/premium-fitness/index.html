@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="NØRTH — демонстрационный сайт премиального фитнес-клуба с персональными программами и восстановлением.">
+  <meta name="theme-color" content="#0b0c0d">
+  <meta property="og:title" content="NØRTH — фитнес как система">
+  <meta property="og:description" content="Демонстрационный лендинг премиального фитнес-клуба.">
+  <title>NØRTH — премиальный фитнес-клуб</title>
+  <link rel="preload" href="assets/hero-fitness.png" as="image" fetchpriority="high">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">К содержанию</a>
+  <header class="header" id="top">
+    <a class="logo" href="#top" aria-label="NØRTH — на главную">NØRTH<span>●</span></a>
+    <nav class="nav" aria-label="Основная навигация">
+      <a href="#method">Подход</a><a href="#spaces">Пространство</a><a href="#membership">Абонементы</a>
+    </nav>
+    <button class="menu" type="button" aria-label="Открыть меню" aria-expanded="false"><span></span><span></span></button>
+    <a class="header-cta" href="#visit">Первый визит <span>↗</span></a>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-bg" role="img" aria-label="Атлет тренируется с гирей в современном зале"></div>
+      <div class="hero-shade"></div>
+      <div class="hero-content reveal">
+        <p class="eyebrow"><span></span> Премиальный фитнес-клуб · Омск</p>
+        <h1 id="hero-title">Сильнее.<br><em>Осознаннее.</em></h1>
+        <p class="hero-copy">Персональная система тренировок, восстановления и питания — в пространстве, где ничего не отвлекает от результата.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#visit">Записаться на визит <span>↗</span></a>
+          <a class="text-link" href="#method">Узнать наш подход <span>↓</span></a>
+        </div>
+      </div>
+      <div class="hero-foot"><span>01 / 05</span><span class="scroll">Листайте, чтобы узнать больше</span><span>Ежедневно 06:00—00:00</span></div>
+    </section>
+
+    <section class="manifest section" id="method">
+      <div class="section-index">01 — Подход</div>
+      <div class="manifest-copy reveal">
+        <p class="kicker">Фитнес без случайностей</p>
+        <h2>Не просто тренировки.<br><span>Система под вас.</span></h2>
+        <p>Начинаем с диагностики, формируем понятный маршрут и следим за динамикой. Вы знаете, зачем делаете каждое упражнение — и видите, как меняется качество жизни.</p>
+      </div>
+      <div class="principles">
+        <article class="principle reveal"><b>01</b><h3>Диагностика</h3><p>Оцениваем мобильность, силу, выносливость и привычки до первой нагрузки.</p></article>
+        <article class="principle reveal"><b>02</b><h3>Персональный план</h3><p>Настраиваем программу под ваш ритм, цели и особенности организма.</p></article>
+        <article class="principle reveal"><b>03</b><h3>Умный прогресс</h3><p>Корректируем нагрузки по данным и самочувствию — без перегрузок и плато.</p></article>
+      </div>
+    </section>
+
+    <section class="spaces section" id="spaces">
+      <div class="section-index">02 — Пространство</div>
+      <div class="spaces-head reveal"><p class="kicker">1 400 м² для движения</p><h2>Всё, что нужно.<br><span>Ничего лишнего.</span></h2></div>
+      <div class="space-tabs" role="tablist" aria-label="Зоны клуба">
+        <button role="tab" aria-selected="true" data-zone="strength">Сила</button>
+        <button role="tab" aria-selected="false" data-zone="cardio">Кардио</button>
+        <button role="tab" aria-selected="false" data-zone="recovery">Восстановление</button>
+        <button role="tab" aria-selected="false" data-zone="studio">Студия</button>
+      </div>
+      <div class="zone-card reveal" id="zone-panel" role="tabpanel">
+        <div class="zone-visual" aria-hidden="true"><span>01</span></div>
+        <div class="zone-copy"><p class="zone-label">Силовая зона</p><h3>Техника важнее веса</h3><p>Свободные веса, продуманная биомеханика тренажёров и достаточно пространства для движения. Тренер рядом, когда он действительно нужен.</p><ul><li>Оборудование премиум-класса</li><li>Платформы для функционального тренинга</li><li>Зона мобильности и разминки</li></ul></div>
+      </div>
+    </section>
+
+    <section class="coach section">
+      <div class="coach-card reveal">
+        <div class="coach-mark" aria-hidden="true">N</div>
+        <div><p class="kicker">Ваш проводник</p><h2>Тренер, который<br><span>слышит вас.</span></h2><p>Не мотиватор на один вечер, а партнёр в долгой дистанции. Специалист ведёт ваш план, объясняет решения и помогает встроить движение в реальную жизнь.</p><a class="text-link light" href="#visit">Подобрать специалиста <span>↗</span></a></div>
+      </div>
+      <div class="quote reveal"><blockquote>«Мы не обещаем быстрых чудес. Мы создаём условия, в которых стабильный результат становится неизбежным».</blockquote><p>— Философия команды NØRTH</p></div>
+    </section>
+
+    <section class="membership section" id="membership">
+      <div class="section-index">03 — Членство</div>
+      <div class="membership-head reveal"><div><p class="kicker">Выберите свой ритм</p><h2>Простые условия.<br><span>Полная поддержка.</span></h2></div><p>Все варианты начинаются со стартовой диагностики. Стоимость указана для демонстрации концепции.</p></div>
+      <div class="plans">
+        <article class="plan reveal"><p class="plan-name">Base</p><p class="price">8 900 ₽ <small>/ месяц</small></p><ul><li>Безлимитный доступ в клуб</li><li>Стартовая диагностика</li><li>2 групповых занятия</li><li>Приложение с планом</li></ul><button class="button outline plan-open" data-plan="Base">Выбрать Base <span>↗</span></button></article>
+        <article class="plan featured reveal"><div class="popular">Оптимальный выбор</div><p class="plan-name">Personal</p><p class="price">18 900 ₽ <small>/ месяц</small></p><ul><li>Всё из тарифа Base</li><li>8 персональных тренировок</li><li>Ежемесячная диагностика</li><li>Консультация по питанию</li></ul><button class="button primary plan-open" data-plan="Personal">Выбрать Personal <span>↗</span></button></article>
+        <article class="plan reveal"><p class="plan-name">Complete</p><p class="price">29 900 ₽ <small>/ месяц</small></p><ul><li>Всё из тарифа Personal</li><li>12 персональных тренировок</li><li>Восстановительные сессии</li><li>Приоритетная запись</li></ul><button class="button outline plan-open" data-plan="Complete">Выбрать Complete <span>↗</span></button></article>
+      </div>
+    </section>
+
+    <section class="visit section" id="visit">
+      <div class="visit-copy reveal"><p class="kicker">Начните с знакомства</p><h2>Ваш первый визит<br><span>без обязательств.</span></h2><p>Покажем клуб, познакомим с тренером и проведём короткую диагностику. Оставьте контакты — администратор свяжется и подберёт удобное время.</p><div class="contacts"><a href="tel:+73812990000">+7 (3812) 99-00-00</a><span>ул. Демонстрационная, 12 · Омск</span></div></div>
+      <form class="form reveal" id="lead-form" novalidate>
+        <label>Ваше имя<input type="text" name="name" autocomplete="name" placeholder="Алексей" required><span class="field-error"></span></label>
+        <label>Телефон<input type="tel" name="phone" autocomplete="tel" placeholder="+7 999 000-00-00" required><span class="field-error"></span></label>
+        <label>Что вас интересует?<select name="interest"><option>Знакомство с клубом</option><option>Персональные тренировки</option><option>Подбор абонемента</option></select></label>
+        <label class="consent"><input type="checkbox" name="consent" required><span>Согласен на демонстрационную обработку данных</span></label>
+        <button class="button primary" type="submit">Записаться на визит <span>↗</span></button>
+        <p class="form-note">Форма работает в демо-режиме: данные никуда не отправляются.</p>
+      </form>
+    </section>
+  </main>
+
+  <footer><a class="logo" href="#top">NØRTH<span>●</span></a><p>Демонстрационный проект для портфолио. Бренд, адрес, цены и предложения вымышлены.</p><p>© 2026 Demo concept</p></footer>
+
+  <dialog id="success-dialog"><button class="dialog-close" aria-label="Закрыть">×</button><div class="dialog-icon">✓</div><p class="kicker">Демо-заявка принята</p><h2>Спасибо, <span id="success-name">друг</span>!</h2><p>В реальном проекте заявка уже отправилась бы администратору. Здесь данные не сохраняются.</p><button class="button primary dialog-ok">Понятно</button></dialog>
+  <script src="script.js" defer></script>
+</body>
+</html>

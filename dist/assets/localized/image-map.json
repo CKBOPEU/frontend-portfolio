@@ -1,0 +1,158 @@
+{
+  "below-protocol": {
+    "en": "assets/localized/en/below-protocol.png",
+    "ru": "assets/localized/ru/below-protocol.png"
+  },
+  "skydiver": {
+    "en": "assets/localized/en/skydiver.png",
+    "ru": "assets/localized/ru/skydiver.png"
+  },
+  "hover-rush": {
+    "en": "assets/localized/en/hover-rush.png",
+    "ru": "assets/localized/ru/hover-rush.png"
+  },
+  "formetr": {
+    "en": "assets/localized/en/formetr.png",
+    "ru": "assets/localized/ru/formetr.png"
+  },
+  "fitcoach": {
+    "en": "assets/localized/en/fitcoach.png",
+    "ru": "assets/localized/ru/fitcoach.png"
+  },
+  "smartbooking": {
+    "en": "assets/localized/en/smartbooking.png",
+    "ru": "assets/localized/ru/smartbooking.png"
+  },
+  "northstar-minicrm": {
+    "en": "assets/localized/en/northstar-minicrm.png",
+    "ru": "assets/localized/ru/northstar-minicrm.png"
+  },
+  "landing-pages": {
+    "en": "assets/localized/en/landing-pages.png",
+    "ru": "assets/localized/ru/landing-pages.png"
+  },
+  "crm-sqlite": {
+    "en": "assets/localized/en/crm-sqlite.png",
+    "ru": "assets/localized/ru/crm-sqlite.png"
+  },
+  "telegram-bots": {
+    "en": "assets/localized/en/telegram-bots.png",
+    "ru": "assets/localized/ru/telegram-bots.png"
+  },
+  "marketplace-cards": {
+    "en": "assets/localized/en/marketplace-cards.png",
+    "ru": "assets/localized/ru/marketplace-cards.png"
+  },
+  "brand-identity": {
+    "en": "assets/localized/en/brand-identity.png",
+    "ru": "assets/localized/ru/brand-identity.png"
+  },
+  "presentations": {
+    "en": "assets/localized/en/presentations.png",
+    "ru": "assets/localized/ru/presentations.png"
+  },
+  "lumi-booking": {
+    "en": "assets/localized/en/lumi-booking.png",
+    "ru": "assets/localized/ru/lumi-booking.png"
+  },
+  "foxton-request": {
+    "en": "assets/localized/en/foxton-request.png",
+    "ru": "assets/localized/ru/foxton-request.png"
+  },
+  "mira-catalog": {
+    "en": "assets/localized/en/mira-catalog.png",
+    "ru": "assets/localized/ru/mira-catalog.png"
+  },
+  "premium-fitness": {
+    "en": "assets/localized/en/premium-fitness.png",
+    "ru": "assets/localized/ru/premium-fitness.png"
+  },
+  "modern-dental": {
+    "en": "assets/localized/en/modern-dental.png",
+    "ru": "assets/localized/ru/modern-dental.png"
+  },
+  "real-estate": {
+    "en": "assets/localized/en/real-estate.png",
+    "ru": "assets/localized/ru/real-estate.png"
+  },
+  "specialty-coffee": {
+    "en": "assets/localized/en/specialty-coffee.png",
+    "ru": "assets/localized/ru/specialty-coffee.png"
+  },
+  "saas-product": {
+    "en": "assets/localized/en/saas-product.png",
+    "ru": "assets/localized/ru/saas-product.png"
+  },
+  "beautydesk": {
+    "en": "assets/localized/en/beautydesk.png",
+    "ru": "assets/localized/ru/beautydesk.png"
+  },
+  "clientflow": {
+    "en": "assets/localized/en/clientflow.png",
+    "ru": "assets/localized/ru/clientflow.png"
+  },
+  "dealboard": {
+    "en": "assets/localized/en/dealboard.png",
+    "ru": "assets/localized/ru/dealboard.png"
+  },
+  "fitmanager": {
+    "en": "assets/localized/en/fitmanager.png",
+    "ru": "assets/localized/ru/fitmanager.png"
+  },
+  "salespulse": {
+    "en": "assets/localized/en/salespulse.png",
+    "ru": "assets/localized/ru/salespulse.png"
+  },
+  "lunea": {
+    "en": "assets/localized/en/lunea.png",
+    "ru": "assets/localized/ru/lunea.png"
+  },
+  "electronics": {
+    "en": "assets/localized/en/electronics.png",
+    "ru": "assets/localized/ru/electronics.png"
+  },
+  "home": {
+    "en": "assets/localized/en/home.png",
+    "ru": "assets/localized/ru/home.png"
+  },
+  "sport": {
+    "en": "assets/localized/en/sport.png",
+    "ru": "assets/localized/ru/sport.png"
+  },
+  "clothing": {
+    "en": "assets/localized/en/clothing.png",
+    "ru": "assets/localized/ru/clothing.png"
+  },
+  "velora": {
+    "en": "assets/localized/en/velora.png",
+    "ru": "assets/localized/ru/velora.png"
+  },
+  "it-service": {
+    "en": "assets/localized/en/it-service.png",
+    "ru": "assets/localized/ru/it-service.png"
+  },
+  "fitness-logo": {
+    "en": "assets/localized/en/fitness-logo.png",
+    "ru": "assets/localized/ru/fitness-logo.png"
+  },
+  "cosmetics-logo": {
+    "en": "assets/localized/en/cosmetics-logo.png",
+    "ru": "assets/localized/ru/cosmetics-logo.png"
+  },
+  "local-service-logo": {
+    "en": "assets/localized/en/local-service-logo.png",
+    "ru": "assets/localized/ru/local-service-logo.png"
+  },
+  "novaflux": {
+    "en": "assets/localized/en/novaflux.png",
+    "ru": "assets/localized/ru/novaflux.png"
+  },
+  "kopytov-proposal": {
+    "en": "assets/localized/en/kopytov-proposal.png",
+    "ru": "assets/localized/ru/kopytov-proposal.png"
+  },
+  "kopytov-company": {
+    "en": "assets/localized/en/kopytov-company.png",
+    "ru": "assets/localized/ru/kopytov-company.png"
+  }
+}

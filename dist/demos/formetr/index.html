@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="FORMETR — интерактивная демонстрация Telegram фитнес-планировщика">
+  <title>FORMETR — demo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <section class="intro">
+      <a class="brand" href="#"><span>F</span> FORMETR</a>
+      <p class="eyebrow">TELEGRAM FITNESS PLANNER · PORTFOLIO DEMO</p>
+      <h1>План понятен.<br><em>Прогресс измерим.</em></h1>
+      <p class="lead">Интерактивная демонстрация rule-based бота: анкета, расчёт питания, тренировки и анализ прогресса без подключения к Telegram.</p>
+      <div class="facts"><span>Python</span><span>aiogram</span><span>SQLAlchemy</span><span>29 tests</span></div>
+      <a class="source" href="https://github.com/CKBOPEU/formetr" target="_blank" rel="noopener">Исходный код ↗</a>
+    </section>
+
+    <section class="phone" aria-label="Демонстрация FORMETR">
+      <header><div class="avatar">F</div><div><b>FORMETR</b><small>демонстрационный режим</small></div><i></i></header>
+      <div id="chat" class="chat" aria-live="polite"></div>
+      <div id="actions" class="actions"></div>
+      <footer><span>Сообщение</span><button aria-label="Отправить">➤</button></footer>
+    </section>
+  </main>
+  <p class="notice">Демо не сохраняет данные и не является медицинской рекомендацией.</p>
+  <script src="app.js"></script>
+</body>
+</html>

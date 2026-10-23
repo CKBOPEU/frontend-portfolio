@@ -1,18 +1,4 @@
-const buttons = document.querySelectorAll('[data-lang]');
-const contactCopy = document.querySelector('#contact p:last-of-type');
-contactCopy.dataset.en = 'Written communication in English or Russian.';
-contactCopy.dataset.ru = 'Письменное общение на английском или русском.';
-const email = document.createElement('a');
-email.className = 'contact-email';
-email.href = 'mailto:Kopytovdv1999@gmail.com';
-email.textContent = 'Kopytovdv1999@gmail.com';
-Object.assign(email.style, { display: 'inline-block', color: '#d8f04b', font: '24px Georgia, serif', marginTop: '22px', overflowWrap: 'anywhere', textUnderlineOffset: '7px' });
-document.querySelector('#contact').append(email);
-function setLang(lang) {
-  document.documentElement.lang = lang;
-  document.querySelectorAll('[data-en]').forEach((element) => { element.innerHTML = element.dataset[lang]; });
-  buttons.forEach((button) => button.classList.toggle('on', button.dataset.lang === lang));
-  localStorage.setItem('portfolio.lang', lang);
-}
-buttons.forEach((button) => button.addEventListener('click', () => setLang(button.dataset.lang)));
-setLang(localStorage.getItem('portfolio.lang') === 'ru' ? 'ru' : 'en');
+(()=>{const ru=document.documentElement.lang==='ru';document.querySelector('.menu')?.addEventListener('click',e=>{const open=e.currentTarget.getAttribute('aria-expanded')!=='true';e.currentTarget.setAttribute('aria-expanded',open);document.querySelector('nav').classList.toggle('open',open)});document.addEventListener('keydown',e=>{if(e.key==='Escape'){document.querySelector('nav').classList.remove('open');document.querySelector('.menu').setAttribute('aria-expanded','false')}});document.querySelectorAll('.lang a').forEach(a=>a.addEventListener('click',()=>{try{localStorage.setItem('portfolio.lang',a.textContent.toLowerCase())}catch{}}));document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-category]').forEach(c=>c.hidden=b.dataset.filter!=='all'&&c.dataset.category!==b.dataset.filter);document.querySelectorAll('[data-filter]').forEach(x=>x.setAttribute('aria-pressed',x===b))}));document.querySelector('[data-copy-email]')?.addEventListener('click',async()=>{const status=document.querySelector('#copy-status');try{await navigator.clipboard.writeText('Kopytovdv1999@gmail.com');status.textContent=ru?'Email скопирован':'Email copied'}catch{status.textContent=ru?'Выделите и скопируйте адрес выше.':'Select and copy the email above.'}})})();
+try{if(!sessionStorage.getItem('portfolio.visited')){sessionStorage.setItem('portfolio.visited','1');const saved=localStorage.getItem('portfolio.lang');const ru=document.documentElement.lang==='ru';if((saved==='ru'&&!ru)||(saved==='en'&&ru)){const a=[...document.querySelectorAll('.lang a')].find(a=>a.textContent.toLowerCase()===saved);if(a)location.replace(a.href)}}}catch{}
+(()=>{if(!['127.0.0.1','localhost'].includes(location.hostname))return;const ports={clientflow:5111,dealboard:5112,fitmanager:5113,beautydesk:5114,salespulse:5115,fitcoach:5131,smartbooking:5122,"northstar-minicrm":5123};const slug=location.pathname.split('/').pop().replace('.html','');if(!ports[slug]||document.querySelector('[data-local-crm]'))return;const a=document.createElement('a');a.className='btn';a.dataset.localCrm='';a.href='http://127.0.0.1:'+ports[slug]+'/';a.textContent=document.documentElement.lang==='ru'?'Открыть приложение':'Open application';document.querySelector('h1')?.after(a)})();
+

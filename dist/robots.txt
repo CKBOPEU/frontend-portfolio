@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ckbopeu.github.io/frontend-portfolio/sitemap.xml

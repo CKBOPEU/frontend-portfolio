@@ -1,0 +1,985 @@
+{
+  "captured": [
+    {
+      "slug": "premium-fitness",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/01-premium-fitness/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "premium-fitness",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/01-premium-fitness/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "modern-dental",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/02-modern-dental/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "modern-dental",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/02-modern-dental/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "real-estate",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/03-real-estate/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "real-estate",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/03-real-estate/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "specialty-coffee",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/04-specialty-coffee/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "specialty-coffee",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/04-specialty-coffee/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "saas-product",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/05-saas-product/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "saas-product",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/05-saas-product/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "landing-pages",
+      "locale": "en",
+      "url": "01_Сайты_и_лендинги/LandingCollectionDemo/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "landing-pages",
+      "locale": "ru",
+      "url": "01_Сайты_и_лендинги/LandingCollectionDemo/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "crm-sqlite",
+      "locale": "en",
+      "url": "02_CRM_и_бизнес-системы/CRMCollectionDemo/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "crm-sqlite",
+      "locale": "ru",
+      "url": "02_CRM_и_бизнес-системы/CRMCollectionDemo/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "below-protocol",
+      "locale": "en",
+      "url": "03_Игры/BelowProtocol/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "below-protocol",
+      "locale": "ru",
+      "url": "03_Игры/BelowProtocol/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "skydiver",
+      "locale": "en",
+      "url": "03_Игры/SkyDiverDemo/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "skydiver",
+      "locale": "ru",
+      "url": "03_Игры/SkyDiverDemo/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "hover-rush",
+      "locale": "en",
+      "url": "03_Игры/Vi3WHoverRush/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "hover-rush",
+      "locale": "ru",
+      "url": "03_Игры/Vi3WHoverRush/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "formetr",
+      "locale": "en",
+      "url": "04_Telegram-боты/FormetrDemo/dist/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "formetr",
+      "locale": "ru",
+      "url": "04_Telegram-боты/FormetrDemo/dist/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "lumi-booking",
+      "locale": "en",
+      "url": "04_Telegram-боты/Новые_проекты/01_LUMI_Booking_Bot/demo/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "lumi-booking",
+      "locale": "ru",
+      "url": "04_Telegram-боты/Новые_проекты/01_LUMI_Booking_Bot/demo/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "foxton-request",
+      "locale": "en",
+      "url": "04_Telegram-боты/Новые_проекты/02_FOXTON_Request_Bot/demo/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "foxton-request",
+      "locale": "ru",
+      "url": "04_Telegram-боты/Новые_проекты/02_FOXTON_Request_Bot/demo/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "mira-catalog",
+      "locale": "en",
+      "url": "04_Telegram-боты/Новые_проекты/03_MIRA_Catalog_Bot/demo/index.html",
+      "translated_dom": true
+    },
+    {
+      "slug": "mira-catalog",
+      "locale": "ru",
+      "url": "04_Telegram-боты/Новые_проекты/03_MIRA_Catalog_Bot/demo/index.html",
+      "translated_dom": false
+    },
+    {
+      "slug": "smartbooking",
+      "locale": "en",
+      "url": "local Next:3101",
+      "translated_dom": false
+    },
+    {
+      "slug": "smartbooking",
+      "locale": "ru",
+      "url": "local Next:3101",
+      "translated_dom": false
+    },
+    {
+      "slug": "northstar-minicrm",
+      "locale": "en",
+      "url": "local Next:3102",
+      "translated_dom": false
+    },
+    {
+      "slug": "northstar-minicrm",
+      "locale": "ru",
+      "url": "local Next:3102",
+      "translated_dom": false
+    }
+  ],
+  "source_exports": [],
+  "failures": [
+    {
+      "slug": "fitcoach",
+      "reason": "Next runtime missing"
+    },
+    {
+      "slug": "velora",
+      "locale": "en",
+      "reason": "No verified source image for velora: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\velora.png"
+    },
+    {
+      "slug": "velora",
+      "locale": "ru",
+      "reason": "No verified source image for velora: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\velora.png"
+    },
+    {
+      "slug": "fitness-logo",
+      "locale": "en",
+      "reason": "No verified source image for fitness-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\fitness-logo.png"
+    },
+    {
+      "slug": "fitness-logo",
+      "locale": "ru",
+      "reason": "No verified source image for fitness-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\fitness-logo.png"
+    },
+    {
+      "slug": "cosmetics-logo",
+      "locale": "en",
+      "reason": "No verified source image for cosmetics-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\cosmetics-logo.png"
+    },
+    {
+      "slug": "cosmetics-logo",
+      "locale": "ru",
+      "reason": "No verified source image for cosmetics-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\cosmetics-logo.png"
+    },
+    {
+      "slug": "local-service-logo",
+      "locale": "en",
+      "reason": "No verified source image for local-service-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\local-service-logo.png"
+    },
+    {
+      "slug": "local-service-logo",
+      "locale": "ru",
+      "reason": "No verified source image for local-service-logo: D:\\Projects\\Работа\\Kwork\\Портфолио\\09_Сайт_портфолио\\PortfolioSite\\dist\\assets\\local-service-logo.png"
+    },
+    {
+      "slug": "velora",
+      "locale": "en",
+      "reason": "output missing"
+    },
+    {
+      "slug": "velora",
+      "locale": "ru",
+      "reason": "output missing"
+    },
+    {
+      "slug": "fitness-logo",
+      "locale": "en",
+      "reason": "output missing"
+    },
+    {
+      "slug": "fitness-logo",
+      "locale": "ru",
+      "reason": "output missing"
+    },
+    {
+      "slug": "cosmetics-logo",
+      "locale": "en",
+      "reason": "output missing"
+    },
+    {
+      "slug": "cosmetics-logo",
+      "locale": "ru",
+      "reason": "output missing"
+    },
+    {
+      "slug": "local-service-logo",
+      "locale": "en",
+      "reason": "output missing"
+    },
+    {
+      "slug": "local-service-logo",
+      "locale": "ru",
+      "reason": "output missing"
+    }
+  ],
+  "checks": [
+    {
+      "slug": "below-protocol",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 5851,
+      "nonblank": false
+    },
+    {
+      "slug": "below-protocol",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 5851,
+      "nonblank": false
+    },
+    {
+      "slug": "skydiver",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 536746,
+      "nonblank": true
+    },
+    {
+      "slug": "skydiver",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 536769,
+      "nonblank": true
+    },
+    {
+      "slug": "hover-rush",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 21749,
+      "nonblank": true
+    },
+    {
+      "slug": "hover-rush",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 22574,
+      "nonblank": true
+    },
+    {
+      "slug": "formetr",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 449551,
+      "nonblank": true
+    },
+    {
+      "slug": "formetr",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 445624,
+      "nonblank": true
+    },
+    {
+      "slug": "fitcoach",
+      "locale": "en",
+      "size": [
+        753,
+        882
+      ],
+      "bytes": 53397,
+      "nonblank": true
+    },
+    {
+      "slug": "fitcoach",
+      "locale": "ru",
+      "size": [
+        753,
+        882
+      ],
+      "bytes": 53397,
+      "nonblank": true
+    },
+    {
+      "slug": "smartbooking",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 12569,
+      "nonblank": true
+    },
+    {
+      "slug": "smartbooking",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 82892,
+      "nonblank": true
+    },
+    {
+      "slug": "northstar-minicrm",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 85099,
+      "nonblank": true
+    },
+    {
+      "slug": "northstar-minicrm",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 85031,
+      "nonblank": true
+    },
+    {
+      "slug": "landing-pages",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 65910,
+      "nonblank": true
+    },
+    {
+      "slug": "landing-pages",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 65910,
+      "nonblank": true
+    },
+    {
+      "slug": "crm-sqlite",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 703427,
+      "nonblank": true
+    },
+    {
+      "slug": "crm-sqlite",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 686466,
+      "nonblank": true
+    },
+    {
+      "slug": "telegram-bots",
+      "locale": "en",
+      "size": [
+        1440,
+        944
+      ],
+      "bytes": 132874,
+      "nonblank": true
+    },
+    {
+      "slug": "telegram-bots",
+      "locale": "ru",
+      "size": [
+        1440,
+        944
+      ],
+      "bytes": 132874,
+      "nonblank": true
+    },
+    {
+      "slug": "marketplace-cards",
+      "locale": "en",
+      "size": [
+        940,
+        860
+      ],
+      "bytes": 233609,
+      "nonblank": true
+    },
+    {
+      "slug": "marketplace-cards",
+      "locale": "ru",
+      "size": [
+        940,
+        860
+      ],
+      "bytes": 233609,
+      "nonblank": true
+    },
+    {
+      "slug": "brand-identity",
+      "locale": "en",
+      "size": [
+        600,
+        750
+      ],
+      "bytes": 36373,
+      "nonblank": true
+    },
+    {
+      "slug": "brand-identity",
+      "locale": "ru",
+      "size": [
+        600,
+        750
+      ],
+      "bytes": 36373,
+      "nonblank": true
+    },
+    {
+      "slug": "presentations",
+      "locale": "en",
+      "size": [
+        1024,
+        408
+      ],
+      "bytes": 134505,
+      "nonblank": true
+    },
+    {
+      "slug": "presentations",
+      "locale": "ru",
+      "size": [
+        1024,
+        408
+      ],
+      "bytes": 134505,
+      "nonblank": true
+    },
+    {
+      "slug": "lumi-booking",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 178481,
+      "nonblank": true
+    },
+    {
+      "slug": "lumi-booking",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 177481,
+      "nonblank": true
+    },
+    {
+      "slug": "foxton-request",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 79471,
+      "nonblank": true
+    },
+    {
+      "slug": "foxton-request",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 80623,
+      "nonblank": true
+    },
+    {
+      "slug": "mira-catalog",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 104293,
+      "nonblank": true
+    },
+    {
+      "slug": "mira-catalog",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 105917,
+      "nonblank": true
+    },
+    {
+      "slug": "premium-fitness",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 1160363,
+      "nonblank": true
+    },
+    {
+      "slug": "premium-fitness",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 1154142,
+      "nonblank": true
+    },
+    {
+      "slug": "modern-dental",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 776590,
+      "nonblank": true
+    },
+    {
+      "slug": "modern-dental",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 842031,
+      "nonblank": true
+    },
+    {
+      "slug": "real-estate",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 1583081,
+      "nonblank": true
+    },
+    {
+      "slug": "real-estate",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 1574055,
+      "nonblank": true
+    },
+    {
+      "slug": "specialty-coffee",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 784330,
+      "nonblank": true
+    },
+    {
+      "slug": "specialty-coffee",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 931851,
+      "nonblank": true
+    },
+    {
+      "slug": "saas-product",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 137216,
+      "nonblank": true
+    },
+    {
+      "slug": "saas-product",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 146322,
+      "nonblank": true
+    },
+    {
+      "slug": "beautydesk",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 73121,
+      "nonblank": true
+    },
+    {
+      "slug": "beautydesk",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 73121,
+      "nonblank": true
+    },
+    {
+      "slug": "clientflow",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 74545,
+      "nonblank": true
+    },
+    {
+      "slug": "clientflow",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 74545,
+      "nonblank": true
+    },
+    {
+      "slug": "dealboard",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 141577,
+      "nonblank": true
+    },
+    {
+      "slug": "dealboard",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 141577,
+      "nonblank": true
+    },
+    {
+      "slug": "fitmanager",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 68028,
+      "nonblank": true
+    },
+    {
+      "slug": "fitmanager",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 68028,
+      "nonblank": true
+    },
+    {
+      "slug": "salespulse",
+      "locale": "en",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 79083,
+      "nonblank": true
+    },
+    {
+      "slug": "salespulse",
+      "locale": "ru",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 79083,
+      "nonblank": true
+    },
+    {
+      "slug": "lunea",
+      "locale": "en",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 509268,
+      "nonblank": true
+    },
+    {
+      "slug": "lunea",
+      "locale": "ru",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 509268,
+      "nonblank": true
+    },
+    {
+      "slug": "electronics",
+      "locale": "en",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 938141,
+      "nonblank": true
+    },
+    {
+      "slug": "electronics",
+      "locale": "ru",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 938141,
+      "nonblank": true
+    },
+    {
+      "slug": "home",
+      "locale": "en",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 450752,
+      "nonblank": true
+    },
+    {
+      "slug": "home",
+      "locale": "ru",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 450752,
+      "nonblank": true
+    },
+    {
+      "slug": "sport",
+      "locale": "en",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 1141034,
+      "nonblank": true
+    },
+    {
+      "slug": "sport",
+      "locale": "ru",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 1141034,
+      "nonblank": true
+    },
+    {
+      "slug": "clothing",
+      "locale": "en",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 1053875,
+      "nonblank": true
+    },
+    {
+      "slug": "clothing",
+      "locale": "ru",
+      "size": [
+        1200,
+        1500
+      ],
+      "bytes": 1053875,
+      "nonblank": true
+    },
+    {
+      "slug": "it-service",
+      "locale": "en",
+      "size": [
+        720,
+        675
+      ],
+      "bytes": 94176,
+      "nonblank": true
+    },
+    {
+      "slug": "it-service",
+      "locale": "ru",
+      "size": [
+        720,
+        675
+      ],
+      "bytes": 94176,
+      "nonblank": true
+    },
+    {
+      "slug": "novaflux",
+      "locale": "en",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 995724,
+      "nonblank": true
+    },
+    {
+      "slug": "novaflux",
+      "locale": "ru",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 995724,
+      "nonblank": true
+    },
+    {
+      "slug": "kopytov-proposal",
+      "locale": "en",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1109388,
+      "nonblank": true
+    },
+    {
+      "slug": "kopytov-proposal",
+      "locale": "ru",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1109388,
+      "nonblank": true
+    },
+    {
+      "slug": "kopytov-company",
+      "locale": "en",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1172192,
+      "nonblank": true
+    },
+    {
+      "slug": "kopytov-company",
+      "locale": "ru",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1172192,
+      "nonblank": true
+    }
+  ]
+}

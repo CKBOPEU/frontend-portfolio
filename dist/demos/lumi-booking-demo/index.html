@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Интерактивная демонстрация Telegram-бота для записи клиентов">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%231f7a63'/%3E%3Cpath d='M18 16h9v25h20v8H18z' fill='white'/%3E%3C/svg%3E">
+  <title>LUMI Booking — демо Telegram-бота</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <section class="intro" aria-labelledby="page-title">
+      <p class="eyebrow">ДЕМО-ПРОЕКТ · TELEGRAM-БОТ</p>
+      <h1 id="page-title">Запись клиентов<br>без переписки вручную</h1>
+      <p class="lead">Интерактивный сценарий для салона: услуга, мастер, дата, время и подтверждение записи.</p>
+      <div class="feature-list" aria-label="Возможности">
+        <span>Свободные слоты</span><span>Подтверждение</span><span>Уведомление администратора</span>
+      </div>
+      <button class="restart desktop-restart" type="button" data-restart>Начать заново</button>
+    </section>
+
+    <section class="demo" aria-label="Демонстрация бота">
+      <div class="phone">
+        <header class="phone-head">
+          <div class="avatar" aria-hidden="true">L</div>
+          <div><strong>LUMI Booking</strong><small>бот · онлайн</small></div>
+          <span class="dots" aria-hidden="true">•••</span>
+        </header>
+        <div class="chat" id="chat" aria-live="polite"></div>
+        <div class="actions" id="actions" aria-label="Варианты ответа"></div>
+      </div>
+
+      <aside class="booking-card" aria-labelledby="booking-title">
+        <div class="card-head">
+          <div><p class="card-label">ТЕКУЩАЯ ЗАПИСЬ</p><h2 id="booking-title">Детали визита</h2></div>
+          <span class="status" id="status">Черновик</span>
+        </div>
+        <dl class="summary">
+          <div><dt>Услуга</dt><dd id="sum-service">—</dd></div>
+          <div><dt>Мастер</dt><dd id="sum-master">—</dd></div>
+          <div><dt>Дата</dt><dd id="sum-date">—</dd></div>
+          <div><dt>Время</dt><dd id="sum-time">—</dd></div>
+          <div><dt>Клиент</dt><dd id="sum-client">—</dd></div>
+        </dl>
+        <div class="admin-note" id="admin-note">
+          <span aria-hidden="true">↗</span>
+          <div><strong>Уведомление администратору</strong><p>Появится после подтверждения записи.</p></div>
+        </div>
+        <button class="restart mobile-restart" type="button" data-restart>Начать заново</button>
+      </aside>
+    </section>
+  </main>
+  <footer>Демонстрационный проект для портфолио · данные сохраняются только в текущей вкладке</footer>
+  <script src="app.js"></script>
+</body>
+</html>
