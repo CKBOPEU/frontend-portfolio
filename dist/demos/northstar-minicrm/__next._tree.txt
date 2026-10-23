@@ -1,0 +1,3 @@
+:HL["/frontend-portfolio/demos/northstar-minicrm/_next/static/css/a4f11605120f5442.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"d2ZLbwWVY06Zuc4wko5Re","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

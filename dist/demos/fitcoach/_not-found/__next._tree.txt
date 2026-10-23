@@ -1,0 +1,4 @@
+:HL["/frontend-portfolio/demos/fitcoach/_next/static/css/b91472d507ba1cb8.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"ozf9meN6f2PxzCrnPGZA1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

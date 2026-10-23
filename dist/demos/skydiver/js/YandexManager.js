@@ -99,4 +99,3 @@ window.YandexManager = {
         });
     }
 };
-
