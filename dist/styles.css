@@ -3,3 +3,7 @@
 
 [hidden]{display:none!important}h1,h2,h3,p,a{overflow-wrap:anywhere}.hero>*,.split>*{min-width:0}.band div{display:flex;flex-wrap:wrap;gap:8px}.contact .actions{justify-content:center}.contact .btn{font:14px Arial;color:var(--ink);background:var(--lime)}.filters{display:flex;flex-wrap:wrap;gap:10px;margin:25px 0}.filters button{padding:10px;border:1px solid var(--ink);background:transparent;border-radius:4px;cursor:pointer}.filters [aria-pressed=true]{background:var(--ink);color:white}.skip{position:absolute;top:-80px}.skip:focus{top:0;z-index:30;background:white;padding:16px}:focus-visible{outline:3px solid #53630b;outline-offset:4px}.card small,.kicker{color:#58634f}.detail-hero img{height:auto}button{cursor:pointer}.nav .menu{display:none}@media(max-width:800px){.nav .menu{display:block}.nav nav.open{display:flex;position:absolute;top:76px;left:0;right:0;flex-direction:column;background:var(--paper);padding:24px;gap:20px;border-bottom:1px solid var(--ink)}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 .service-cta{display:inline-block;margin-top:20px;font-weight:700;text-decoration:underline;text-underline-offset:4px}
+
+
+/* Compact subsection headings in the About column. */
+.section.split h2{font:500 clamp(26px,3vw,38px)/1.15 Georgia;letter-spacing:-.02em;margin:32px 0 16px}
