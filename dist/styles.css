@@ -7,3 +7,5 @@
 
 /* Compact subsection headings in the About column. */
 .section.split h2{font:500 clamp(26px,3vw,38px)/1.15 Georgia;letter-spacing:-.02em;margin:32px 0 16px}
+
+.footer{flex-wrap:wrap;gap:12px 24px}.author-credit{flex-basis:100%}
