@@ -21,3 +21,9 @@
 .portfolio-hero a:focus-visible,.portfolio-work a:focus-visible{outline:3px solid #296d41;outline-offset:4px}
 @media(max-width:760px){.portfolio-hero,.portfolio-work{width:calc(100% - 36px)}.portfolio-hero{grid-template-columns:1fr}.portfolio-cases{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:520px){.portfolio-cases{grid-template-columns:1fr}}
+
+.archive-art{box-sizing:border-box;display:flex;flex-direction:column;justify-content:center;aspect-ratio:16/10;padding:10%;background:#e5e4d6;color:#153729}
+.archive-art strong{font-size:clamp(1.6rem,3.35vw,3.2rem);line-height:1.02;letter-spacing:-.035em}
+.archive-art small{font-size:1rem;margin-top:.8em}
+.portfolio-hero-preview{background:#14271d;padding:0;overflow:hidden}
+@media(prefers-reduced-motion:no-preference){.portfolio-case{transition:transform .18s ease}.portfolio-case:hover{transform:translateY(-3px)}}
