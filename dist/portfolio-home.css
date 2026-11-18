@@ -1,0 +1,23 @@
+.portfolio-hero,.portfolio-work{box-sizing:border-box;width:min(100% - 64px,1280px);margin-inline:auto}
+.portfolio-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr);align-items:center;gap:clamp(24px,5vw,72px);padding-block:clamp(48px,8vw,112px)}
+.portfolio-hero h1,.portfolio-work h2{font-size:clamp(2rem,4.4vw,4.25rem);line-height:1.04;letter-spacing:-.045em;margin:0;color:#102b20}
+.portfolio-hero p{font-size:clamp(1rem,1.55vw,1.25rem);line-height:1.55;margin:22px 0 28px;max-width:47ch}
+.portfolio-actions,.portfolio-work-heading{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.portfolio-actions a,.portfolio-work-heading a{min-height:44px;display:inline-flex;align-items:center;text-underline-offset:.25em}
+.portfolio-actions .portfolio-primary{background:#102b20;color:#fff;padding:0 20px;border-radius:8px;text-decoration:none;font-weight:700}
+.portfolio-hero-preview{display:block;background:#dcebc8;padding:clamp(10px,2.2vw,28px);border-radius:20px}
+.portfolio-hero-preview img,.portfolio-case img{display:block;width:100%;height:auto}
+.portfolio-hero-preview img{border-radius:10px}
+.portfolio-work{padding-bottom:clamp(48px,8vw,100px)}
+.portfolio-work-heading{justify-content:space-between;margin-bottom:24px}
+.portfolio-work h2{font-size:clamp(1.9rem,3.6vw,3.5rem)}
+.portfolio-cases{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.portfolio-case{display:block;overflow:hidden;border-radius:14px;background:#fff;color:#102b20;border:1px solid #d5ded5;text-decoration:none}
+.portfolio-case img{aspect-ratio:16/10;object-fit:contain;background:#e7ebe1}
+.portfolio-case div{padding:16px}
+.portfolio-case h3{font-size:clamp(1.1rem,1.7vw,1.45rem);margin:0 0 5px}
+.portfolio-case p{margin:0;color:#405349}
+.portfolio-case:hover h3{text-decoration:underline;text-underline-offset:.18em}
+.portfolio-hero a:focus-visible,.portfolio-work a:focus-visible{outline:3px solid #296d41;outline-offset:4px}
+@media(max-width:760px){.portfolio-hero,.portfolio-work{width:calc(100% - 36px)}.portfolio-hero{grid-template-columns:1fr}.portfolio-cases{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.portfolio-cases{grid-template-columns:1fr}}
